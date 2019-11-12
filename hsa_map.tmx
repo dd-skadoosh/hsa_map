@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.2" tiledversion="1.2.5" orientation="orthogonal" renderorder="right-down" width="450" height="30" tilewidth="32" tileheight="32" infinite="0" nextlayerid="140" nextobjectid="696">
+<map version="1.2" tiledversion="1.2.5" orientation="orthogonal" renderorder="right-down" width="450" height="30" tilewidth="32" tileheight="32" infinite="0" nextlayerid="140" nextobjectid="698">
  <tileset firstgid="1" source="tilemap-x32.tsx"/>
  <tileset firstgid="487" source="tilemap-2-x32.tsx"/>
  <layer id="129" name="ground" width="450" height="30">
@@ -452,7 +452,7 @@
   <object id="594" name="promo" x="12672" y="608" width="32" height="32"/>
   <object id="595" name="promo" x="13984" y="416" width="32" height="32"/>
   <object id="596" name="mob" x="608" y="480" width="32" height="32"/>
-  <object id="597" name="mob" x="528" y="352" width="32" height="32"/>
+  <object id="597" name="mob" x="544" y="352" width="32" height="32"/>
   <object id="601" name="mob" x="2400" y="608" width="32" height="32"/>
   <object id="602" name="mob" x="2368" y="320" width="32" height="32"/>
   <object id="603" name="mob" x="2752" y="320" width="32" height="32"/>
@@ -534,5 +534,7 @@
   <object id="693" name="buildings" x="5216" y="320" width="672" height="320"/>
   <object id="694" name="buildings" x="5984" y="224" width="96" height="192"/>
   <object id="695" name="buildings" x="5984" y="512" width="96" height="224"/>
+  <object id="696" name="buildings" x="192" y="544" width="256" height="32"/>
+  <object id="697" name="buildings" x="448" y="416" width="352" height="32"/>
  </objectgroup>
 </map>
